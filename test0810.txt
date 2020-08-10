@@ -2,6 +2,7 @@
 2、新建空文件夹，初始化：
 	git init
 3、设置签名
+<<<<<<<<<<<<<<<<<<<<<
 	1、项目级别签名
 		git config user.name xxx;
 		git config user.email xxx@qq.com
